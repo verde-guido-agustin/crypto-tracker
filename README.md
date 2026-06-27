@@ -21,7 +21,7 @@ Dashboard de criptomonedas en tiempo real construido con React y TypeScript.
 
 ## Correr localmente
 ```bash
-git clone https://github.com/tuusuario/crypto-tracker
+git clone https://github.com/verde-guido-agustin/crypto-tracker
 cd crypto-tracker
 npm install
 npm run dev
