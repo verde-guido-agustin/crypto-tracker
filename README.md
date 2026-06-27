@@ -3,7 +3,7 @@
 Dashboard de criptomonedas en tiempo real construido con React y TypeScript.
 
 ## Demo
-[crypto-tracker-tuusuario.vercel.app](crypto-tracker-guido-verde.vercel.app)
+[crypto-tracker-guido-verde.vercel.app](crypto-tracker-guido-verde.vercel.app)
 
 ## Features
 - Precios en tiempo real de las top 30 criptomonedas
